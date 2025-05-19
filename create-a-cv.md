@@ -2,15 +2,6 @@
 
 ## 📄 Evidence
 
-As part of the Work Readiness training, we completed a **Create a CV** that guided us through the process of creating a professional CV.
-
-### 🧾 What We Did:
-- We were taught what content a strong CV should include (e.g., personal details, education, experience, skills, references).
-- We used a **CV Checklist** to ensure our CVs were complete, accurate, and properly formatted.
-# Create a CV
-
-## 📄 Evidence
-
 As part of the Work Readiness training, we completed a **Create A CV module** that guided us through the process of creating a professional CV.
 
 ### 🧾 What We Did:
