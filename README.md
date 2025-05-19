@@ -4,12 +4,12 @@ Explore a Collection of My Work, Skills, and Passion for Innovation in Informati
 
 ### 📂 Sections
 
-- [Career Counselling](career-counselling.md)
-- [Skills and Interests](skills-and-interests.md)
-- [Personality Assessment](personality-assessment.md)
-- [Create a CV](create-a-cv.md)
-- [CV Submission](cv-submission.md)
+- 💻[Career Counselling](career-counselling.md)
+- ⚙️[Skills and Interests](skills-and-interests.md)
+- 🧠[Personality Assessment](personality-assessment.md)
+- 📝[Create a CV](create-a-cv.md)
+- 📃[CV Submission](cv-submission.md)
 
-> Prepared by: Zaid Theunissen 
+> Name: Zaid Theunissen 
 > Student Number: 221084142
-> Qualification: Diploma in Applications Development
+> Module: PRP372S
