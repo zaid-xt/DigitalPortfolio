@@ -1,8 +1,8 @@
-# Welcome to My Digital Portfolio: A Showcase of My Work and Projects
+## Welcome to My Digital Portfolio: A Showcase of My Work and Projects
 
 Explore a Collection of My Work, Skills, and Passion for Innovation in Information Technology.
 
-## 📂 Sections
+### 📂 Sections
 
 - [Career Counselling](career-counselling.md)
 - [Skills and Interests](skills-and-interests.md)
