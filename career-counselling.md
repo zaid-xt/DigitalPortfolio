@@ -6,13 +6,13 @@
 
 I completed an online **Career Personality Quiz** which helped me understand my strengths, preferences, and suitable career paths in the IT industry.
 
-- 📄[Career Quiz Result](assets/Career%20Quiz.png)  
+- 📄 [Career Quiz Result](assets/Career%20Quiz.png)  
 
 ### ✅ 2. LinkedIn Course: Career Development
 
 I completed the LinkedIn Learning course titled **Taking Charge of Your Career** which gave me practical insights into career planning, personal branding, and professional growth.
 
-- 📄[Certificate of Completion](assets/CertificateOfCompletion_Taking%20Charge%20of%20Your%20Career.pdf)
+- 📄 [Certificate of Completion](assets/CertificateOfCompletion_Taking%20Charge%20of%20Your%20Career.pdf)
 
 ---
 

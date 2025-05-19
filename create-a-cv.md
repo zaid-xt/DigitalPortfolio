@@ -6,13 +6,13 @@
 
 As part of the Work Readiness training, we completed a **Create A CV module** that guided us through the process of creating a professional CV. We were taught what content a strong CV should include (e.g., personal details, education, experience, skills, references).
 
-- 📃[CV Draft](assets/CV%20-%20Zaid%20Theunissen.pdf)
+- 📃 [CV Draft](assets/CV%20-%20Zaid%20Theunissen.pdf)
 
 ### ✅ 2. CV Checklist
 
 We used a **CV Checklist** to ensure our CVs were complete, accurate, and properly formatted.
 
-- 📄[CV Checklist](assets/CV%20REVIEW.pdf)
+- 📄 [CV Checklist](assets/CV%20REVIEW.pdf)
 
 ---
 
