@@ -12,6 +12,6 @@ This portfolio contains evidence of my work readiness training, including reflec
 - [Create a CV](create-a-cv.md)
 - [CV Submission](cv-submission.md)
 
-> Prepared by: *Your Full Name*  
-> Student Number: *Your Student Number*  
-> Qualification: Diploma in ICT  
+> Prepared by: Zaid Theunissen 
+> Student Number: 221084142
+> Qualification: Diploma in Applications Development
