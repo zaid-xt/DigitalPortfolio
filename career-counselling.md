@@ -8,7 +8,7 @@ I completed an online **Career Personality Quiz** which helped me understand my 
 [Career Quiz Result](assets/Career%20Quiz.png)  
 
 ### ✅ 2. LinkedIn Course: Career Development
-I completed the LinkedIn Learning course titled **“Career Advice from Some of the Biggest Names in Business”** which gave me practical insights into career planning, personal branding, and professional growth.
+I completed the LinkedIn Learning course titled **Taking Charge of Your Career** which gave me practical insights into career planning, personal branding, and professional growth.
 
 [Certificate of Completion](assets/CertificateOfCompletion_Taking%20Charge%20of%20Your%20Career.pdf)
 
