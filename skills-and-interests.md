@@ -2,7 +2,13 @@
 
 ## 📄 Evidence
 
-### ✅ 1. LinkedIn Learning Certificates
+### ✅ 1. In-Class Skills and Interests Course
+
+I completed a classroom-based **Skills and Interests** module as part of the Work Readiness training. This course helped me assess my personal strengths, align them with career paths in ICT, and understand how to present them professionally.
+
+- 📄 [Skills and Interests](assets/Screenshot%202025-05-19%20231558.png)
+
+### ✅ 2. LinkedIn Learning Certificates
 
 I completed the following LinkedIn Learning courses to enhance my technical and data management skills:
 
@@ -13,7 +19,7 @@ These certificates demonstrate my commitment to continuous learning and developm
 
 ---
 
-### ✅ 2. GitHub Projects
+### ✅ 3. GitHub Projects
 
 Here are some of the coding projects I’ve developed to apply my knowledge:
 
