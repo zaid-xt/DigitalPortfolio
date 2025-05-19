@@ -2,14 +2,17 @@
 
 ## 📄 Evidence
 
-Insert a description and links to artefacts such as:
-- Career assessments
-- Career planning documents
-- Presentation videos
+### ✅ 1. Career Quiz
+I completed an online **Career Personality Quiz** which helped me understand my strengths, preferences, and suitable career paths in the IT industry.
 
-> Example:  
-> ![CareerPlan](assets/images/career-plan.png)  
-> [Career Goals PDF](assets/documents/career-goals.pdf)
+![Career Quiz Result](assets/images/career-quiz-result.png)  
+[View Summary Report](assets/documents/career-quiz-summary.pdf)
+
+### ✅ 2. LinkedIn Course: Career Development
+I completed the LinkedIn Learning course titled **“Career Advice from Some of the Biggest Names in Business”** which gave me practical insights into career planning, personal branding, and professional growth.
+
+![LinkedIn Course Screenshot](assets/images/linkedin-career-course.png)  
+[Certificate of Completion](assets/documents/linkedin-career-course-cert.pdf)
 
 ---
 
