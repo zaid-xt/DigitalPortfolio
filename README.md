@@ -1,8 +1,6 @@
-# PRP370S - Digital Portfolio
+# Welcome to My Digital Portfolio: A Showcase of My Work and Projects
 
-Welcome to my digital portfolio for the **Project Presentation 3 (PRP370S)** assessment.
-
-This portfolio contains evidence of my work readiness training, including reflections using the STAR technique.
+Explore a Collection of My Work, Skills, and Passion for Innovation in Information Technology.
 
 ## 📂 Sections
 
