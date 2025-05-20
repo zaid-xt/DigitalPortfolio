@@ -10,7 +10,7 @@ I completed a personality test using the a personality test platform, which iden
 
 ---
 
-### ✅ 2. In-Class Personality Assessment Module
+### ✅ 2. In-Class Personality Assessment Course
 
 As part of our Work Readiness program, I participated in an in-class **Personality Assessment** module. This session helped me understand the application of personality types in the workplace, how to adapt in team environments, and how personality impacts career development.
 
