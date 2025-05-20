@@ -27,7 +27,7 @@ I was unsure how my personality traits would influence my career direction and p
 I wanted to explore my personality type and reflect on how it could affect my communication style, team collaboration, and career choices.
 
 **Action**:  
-I completed an online 16Personalities assessment and took part in a classroom personality module. I reviewed both sets of results, compared insights, and noted consistent patterns in areas like leadership, decision-making, and work environment preference.
+I completed an online assessment and took part in a classroom personality assessment module. I reviewed both sets of results, compared insights, and noted consistent patterns in areas like leadership, decision-making, and work environment preference.
 
 **Result**:  
 I gained a deeper understanding of my strengths and growth areas. I now use this awareness to work more effectively in team settings, communicate clearly, and pursue roles that align with my natural strengths.
