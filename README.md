@@ -7,8 +7,7 @@ Explore a Collection of My Work, Skills, and Passion for Innovation in Informati
 - 💻[Career Counselling](career-counselling.md)
 - ⚙️[Skills and Interests](skills-and-interests.md)
 - 🧠[Personality Assessment](personality-assessment.md)
-- 📝[Create a CV](create-a-cv.md)
-- 📃[CV Submission](cv-submission.md)  
+- 📃[Cirriculum Vitae](cv-submission.md)  
 
 > Name: Zaid Theunissen  
 > Student Number: 221084142  
