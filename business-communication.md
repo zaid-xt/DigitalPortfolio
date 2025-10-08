@@ -6,7 +6,7 @@
 
 I successfully completed a Business Communication course that focused on professional writing, presentation, and interpersonal communication in a workplace context.
 
-- 📄 Certificate of Completion
+- 📄 Certificate of Completion(assets/BusinessCommunicationEmail.pdf)
 
 ### ✅ 2. Professional Email Example
 
