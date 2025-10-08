@@ -6,13 +6,13 @@
 
 I successfully completed a Business Communication course that focused on professional writing, presentation, and interpersonal communication in a workplace context.
 
-- 📄 Certificate of Completion(assets/BusinessCommunicationEmail.pdf)
+- 📄 [Certificate of Completion](assets/BusinessCommunicationEmail.pdf)
 
 ### ✅ 2. Professional Email Example
 
 As part of work place learning, I composed a professional email to a colleague to provide updates and coordinate project tasks. This demonstrates clear, structured, and professional communication in a team setting.
 
-- 📄 View Email
+- 📄 [View Email](assets/CertificateOfCompletionBusinessCommunication.png)
 
 ## 💬 Reflection
 
