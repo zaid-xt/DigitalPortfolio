@@ -1,18 +1,18 @@
-# Interview Skills
+# 🎯 Interview Skills
 
 ## 📄 Evidence
 
-### ✅ 1. LinkedIn Learning Course: Interview Preparation
+### 1. LinkedIn Learning Course: Interview Preparation
 
-I completed the LinkedIn Learning course titled “Mastering Job Interviews”, which provided practical guidance on preparing for interviews, answering common questions, and presenting myself professionally.
+I completed the LinkedIn Learning course titled “Mastering Common Interview Questions”, which provided practical guidance on preparing for interviews, answering common questions, and presenting myself professionally.
 
-- 📄 [Certificate of Completion] 
+- 📄 [Certificate of Completion](assets/CertificateOfCompletion_Mastering%20Common%20Interview%20Questions.pdf)
 
-### ✅ 2. In-Class Interview Skills Course
+### 2. In-Class Interview Skills Course
 
 I completed an Interview Skills course, which focused on practical exercises and essential techniques to perform successfully in interviews.
 
-- 📄 [Certificate of Completion]
+- 📄 [Certificate of Completion](assets/InterviewSkills.png)
 
 ## 💬 Reflection
 
