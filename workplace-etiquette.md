@@ -2,23 +2,23 @@
 
 ## 📄 Evidence
 
-### ✅ 1. LinkedIn Learning Course: Workplace Etiquette
+### 1. LinkedIn Learning Course: Workplace Etiquette
 
-I completed the LinkedIn Learning course titled “Workplace Etiquette”, which taught professional behavior, communication standards, and effective collaboration in workplace settings. 
+I completed the LinkedIn Learning course titled “Business Etiquette For The Modern Workplace”, which taught professional behavior, communication standards, and effective collaboration in workplace settings. 
 
-- 📄 [Certificate of Completion]
+- 📄 [Certificate of Completion](https://github.com/zaid-xt/DigitalPortfolio/blob/main/assets/CertificateOfCompletion_Business%20Etiquette%20for%20the%20Modern%20Workplace.pdf)
 
-### ✅ 2. In-Class Workplace Etiquette Course
+### 2. In-Class Workplace Etiquette Course
 
 I also completed an in-class Workplace Etiquette course, reinforcing the concepts learned online and providing practical exercises in professional communication and team collaboration.
 
-- 📄 [Certificate of Completion] 
+- 📄 [Certificate of Completion](assets/WorkPlace.png)
 
-### ✅ 3. Team Project Artefacts
+### 3. Team Project Artefacts
 
 As part of group projects, I applied workplace etiquette principles.
 
-- 📄 [Download Team Project Evidence]
+- 📄 [Download Team Project Evidence](assets/Meeting%20Minutes.pdf)
 
 ## 💬 Reflection
 
