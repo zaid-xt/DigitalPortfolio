@@ -10,7 +10,7 @@ Explore a Collection of My Work, Skills, and Passion for Innovation in Informati
 - 📃[Cirriculum Vitae](cv-submission.md)
 - 🗣️[Business Communication](business-communication.md)
 - 🎯[Interview Skills](interview-skills.md)
-- 🎥[Mock Interview](assets/Zaid%20Theunissen%20-%20221084142%20-%20Mock%20Interview.mp4)
+- 🎥[Mock Interview](mock-interview.md)
 - 🌐[Professional Networking](professional-networking.md)
 - 🏢[Workplace Etiquette](workplace-etiquette.md)
 
