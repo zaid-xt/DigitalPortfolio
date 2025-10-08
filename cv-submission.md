@@ -4,7 +4,7 @@
 
 Here is the final version of my CV, compiled using the knowledge gained from the CV development module and checklist:
 
-📄 [Download My Final CV](assets/CV%20-%20Mogamat%20Zaid%20Theunissen.pdf)
+📄 [Download My CV](assets/CV%20-%20Mogamat%20Zaid%20Theunissen.pdf)
 
 ---
 
