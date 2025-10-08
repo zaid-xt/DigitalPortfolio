@@ -2,7 +2,7 @@
 
 ## 📄 Evidence
 
-### 1. Business Communication Course
+### 1.  In-Class Business Communication Course
 
 I successfully completed a Business Communication course that focused on professional writing, presentation, and interpersonal communication in a workplace context.
 
