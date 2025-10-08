@@ -1,24 +1,24 @@
-# Professional Networking
+# 🌐 Professional Networking
 
 ##📄 Evidence
 
-### ✅ 1. LinkedIn Learning Course: Networking Fundamentals
+### 1. LinkedIn Learning Course: Networking Fundamentals
 
-I completed the LinkedIn Learning course titled “Building Professional Networks”, which taught strategies for creating and maintaining professional relationships, both online and offline.
+I completed the LinkedIn Learning course titled “Professional Networking and Influence", which taught strategies for creating and maintaining professional relationships, both online and offline.
 
-- 📄[Certificate of Completion]
+- 📄[Certificate of Completion](assets/CertificateOfCompletion_Professional%20Networking%20and%20Influence.pdf)
 
-### ✅ 2. In-Class Professional Networking Course
+### 2. In-Class Professional Networking Course
 
 I also completed an in-class Professional Networking course, which included practical exercises on initiating conversations, building connections, and presenting myself effectively in professional settings.
 
-- 📄[Certificate of Completion]
+- 📄[Certificate of Completion](assets/ProfessionalNetworking.png)
 
-### ✅ 3. LinkedIn Profile Screenshot
+### 3. LinkedIn Profile Screenshot
 
 As part of applying my networking skills, I updated my LinkedIn profile and actively connected with professionals in the ICT field.
 
-- 📄[LinkedIn Profile]
+- 📄[LinkedIn Profile](assets/LinkedInProfile.png)
 
 ## 💬 Reflection
 
