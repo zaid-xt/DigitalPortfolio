@@ -1,14 +1,14 @@
-# Business Communication
+# 💬 Business Communication
 
 ## 📄 Evidence
 
-### ✅ 1. Business Communication Course
+### 1. Business Communication Course
 
 I successfully completed a Business Communication course that focused on professional writing, presentation, and interpersonal communication in a workplace context.
 
 - 📄 [Certificate of Completion](assets/CertificateOfCompletionBusinessCommunication.png)
 
-### ✅ 2. Professional Email Example
+### 2. Professional Email Example
 
 As part of work place learning, I composed a professional email to a colleague to provide updates and coordinate project tasks. This demonstrates clear, structured, and professional communication in a team setting.
 
