@@ -18,13 +18,13 @@ As part of work place learning, I composed a professional email to a colleague t
 
 I prepared Meeting Minutes to document discussions, decisions, and action items during team meetings. This artefact highlights my attention to detail, ability to summarize key points, and commitment to maintaining transparent communication.
 
-- 📄 [View Email](assets/Meeting%20Minutes.pdf)
+- 📄 [View Meeting Minutes](assets/Meeting%20Minutes.pdf)
 
 ### 4. Formal Report 
 
 I created a Formal Report as part of a workplace learning project, presenting findings, analysis, and recommendations in a structured, professional format. This demonstrates my ability to convey information clearly and effectively in a formal written document.
 
-- 📄 [View Email](assets/Project%20Portfolio%20-%20Zaid%20Theunissen%20-%20221084142.pdf)
+- 📄 [View Report](assets/Project%20Portfolio%20-%20Zaid%20Theunissen%20-%20221084142.pdf)
 
 ## 💬 Reflection
 
